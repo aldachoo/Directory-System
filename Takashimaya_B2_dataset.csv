@@ -1,0 +1,54 @@
+Name of Shop,Cuisine,Unit Number,Price,Ratings,Dine in,Takeaway,Inclusive of GST/ Service charge,Waiting time,Popular item,Link
+Ambush,European ,B2-01,3,4,Yes,Yes,Yes,15,Wurst Platter - $21,Ambush
+Asian Snacks ,Japanese,B2-14,1,5,No,Yes,No,13,Chicken karaage stick - $2,Asian Snacks 
+Azabu Sabo,Confectionery ,B2-15,1,4,No,Yes,No,6,Hokkaido Ice Cream - $3.80,Azabu Sabo
+Baikohken,Japanese,B2-02,2,3,Yes,Yes,Yes,10,Specialty Ramen - $20,Baikohken
+Bankaku ,Confectionery ,B2-16,1,4,No,Yes,No,11,Yukari Shrimp Crackers - $20,Bankaku 
+Bee Cheng Hiang,Chinese,B2-18,1,3,No,Yes,No,5,Freshly grilled bakkwa - $15,Bee Cheng Hiang
+Bengawansolo,Confectionery ,B2-17,1,5,No,Yes,No,2,Kueh Lapis - $2.20,Bengawansolo
+Boost Juice,Drinks,B2-19,1,4,No,Yes,No,7,Mango magic - $5,Boost Juice
+Butter Studio ,Confectionery ,B2-20,1,5,No,Yes,No,15,Classic Butter Cookies - $15,Butter Studio 
+Cold Storage,Grocery,B2-52,1,4,No,Yes,No,4,Sushi Counter ~$20,Cold Storage
+Cookie Mixx,Confectionery ,B2-21,1,3,No,Yes,No,4,Belgium Chocolate Chunk - $7.90,Cookie Mixx
+DONQ,Confectionery ,B2-23,1,5,No,Yes,No,2,Mentaiko France - $2.40,DONQ
+Dragon Brand Bird's Nest,Chinese,B2-22,3,4,No,Yes,No,6,Superior Bird's nest - $60,Dragon Brand Bird's Nest
+Enoteca Wine,Winery ,B2-09,3,4,No,Yes,No,17,1916 Chateau - $560,Enoteca Wine
+Fauchon,Confectionery ,B2-10,1,5,No,Yes,No,3,Box of 7 Macarons Heart - $15,Fauchon
+Fukujuen ,Confectionery ,B2-24,1,4,No,Yes,No,7,Organic sencha - $12,Fukujuen 
+GODIVA,Confectionery ,B2-25,2,4,No,Yes,No,4,Gold Collection Chocolates - $36,GODIVA
+Gourmet Grocery by Ourchoice,Grocery,B2-11,2,3,No,Yes,No,18,Fresh Fruit Jam - $25,Gourmet Grocery by Ourchoice
+Harrods ,Grocery,B2-12,3,4,No,Yes,No,9,Earl Grey Loose Tea - $24,Harrods 
+Honey Farm ,Grocery,B2-26,2,3,No,Yes,No,4,New Zealand Wildflower Honey - $30,Honey Farm 
+Japanese Snacks,Confectionery ,B2-27,1,4,No,Yes,No,4,Ishiya Seika White - $25,Japanese Snacks
+Juchheim Baumkuchen,Confectionery ,B2-28,1,3,No,Yes,No,3,Juchheim Baumkuchen - $14.90,Juchheim Baumkuchen
+Kimukatsu,Japanese,B2-03,3,5,Yes,Yes,No,15,Tonkatsu - $16,Kimukatsu
+Kobe Fugetsudo ,Confectionery ,B2-29,1,4,No,Yes,No,2,Petite Gaufres (6 pcs) - $9,Kobe Fugetsudo 
+Kyoho-ya,Confectionery ,B2-30,1,5,No,Yes,No,7,Hokkaido specialty milk (200ml) - $2.20,Kyoho-ya
+Laderach,Confectionery ,B2-31,1,4,No,Yes,No,5,Pistachio Milk - $19.90,Laderach
+Leroy Wine,Winery ,B2-13,3,4,No,Yes,No,8,Delamotte : Brut - $420,Leroy Wine
+Mankaso ,Confectionery ,B2-32,1,3,No,Yes,No,7,Seafood rice crackers - $5.90,Mankaso 
+Mignon's Steak & Grill ,Western,B2-04,3,4,Yes,Yes,Yes,40,St Lolus Lamb Cutlet - $15.90,Mignon's Steak & Grill 
+Minamoto Kitchoan ,Confectionery ,B2-33,1,4,No,Yes,No,4,Tsuya(10 pcs) - $30,Minamoto Kitchoan 
+Mini One,Confectionery ,B2-34,1,5,No,Yes,No,6,Mini Cheesecake - $3.50,Mini One
+Nakajima Suisan (Sushi & Fish),Japanese,B2-53,1,3,No,Yes,No,6,Salmon Sushi - $5,Nakajima Suisan (Sushi & Fish)
+Nakajima Suisan Grilled Fish ,Japanese,B2-05,2,3,Yes,Yes,No,27,Mero Saikyo Set - $16.50,Nakajima Suisan Grilled Fish 
+NamNam ,Thai ,B2-06,2,4,Yes,Yes,Yes,38,Classic Pho - $16,NamNam 
+Nuts & Nibble,Confectionery ,B2-35,1,4,No,Yes,No,4,Roasted Macadamias - $3,Nuts & Nibble
+Peck ,Confectionery ,B2-36,1,3,No,Yes,No,3,Chocolate croissant - $4,Peck 
+Royce,Confectionery ,B2-37,2,5,No,Yes,No,2,Nama Au Lait - $15,Royce
+Ryugetsu ,Confectionery ,B2-38,2,4,No,Yes,No,9,Hokkaido Roll Cake Kabanoki - $25,Ryugetsu 
+Shiseido Parlour ,Confectionery ,B2-39,1,3,No,Yes,No,5,Shiseido Parlour La Ganache - $28,Shiseido Parlour 
+Sinpopo,Confectionery ,B2-40,2,4,No,Yes,No,4,Sinpopo Crab Bee Hoon - $16,Sinpopo
+Spa Foods,Confectionery ,B2-42,2,4,No,Yes,No,7,Blue Pea Flower Tea - $20.50,Spa Foods
+St Leaven Bakery,Confectionery ,B2-41,2,5,No,Yes,No,3,Raisin Canape - $3.10,St Leaven Bakery
+Sugi Bee Garden ,Confectionery ,B2-43,2,3,No,Yes,No,5,Plum pickled in Honey - $60,Sugi Bee Garden 
+Tai Cheong Bakery ,Confectionery ,B2-44,2,4,No,Yes,No,7,Egg tarts (4 pcs) - $7.60,Tai Cheong Bakery 
+Thye Shan Medical Hall,Confectionery ,B2-46,1,3,No,Yes,No,4,Premium Dang Gui - $15,Thye Shan Medical Hall
+Tian Yuan Xiang,Confectionery ,B2-45,3,4,No,Yes,No,8,Original Chicken Essence (Frozen) - $170 ,Tian Yuan Xiang
+Tsuru-Koshi Udon,Japanese,B2-07,1,5,Yes,Yes,No,17,Tonkotsu Ebi Tempura Udon - $11.50,Tsuru-Koshi Udon
+TWG Tea,Confectionery ,B2-47,1,4,No,Yes,No,9,Macarons - $2,TWG Tea
+Venchi,Confectionery ,B2-48,1,5,No,Yes,No,5,Dark Cremino Chocolight - $21,Venchi
+Xndo,Grocery ,B2-49,1,4,No,Yes,No,7,Singapore Chicken Rice - $10,Xndo
+Yakun,Chinese,B2-50,1,4,No,Yes,No,2,Kaya Toast with Butter Set - $4.80,Yakun
+Yi Kou Wei ,Chinese,B2-51,2,5,No,Yes,No,7,Granny's Spare Ribs - $12,Yi Kou Wei 
+Yonehachi ,Japanese,B2-08,3,3,Yes,Yes,No,28,Shokadou Set - $27.90,Yonehachi 
